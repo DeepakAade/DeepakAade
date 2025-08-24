@@ -1,7 +1,5 @@
 ### Hey 👋 Deepak Here!
 
-🚀 About Me
-
 Passionate developer bridging AI/ML with intuitive web and mobile experiences.
           
 
@@ -22,7 +20,7 @@ Passionate developer bridging AI/ML with intuitive web and mobile experiences.
  ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)  ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white) 
 
 **Android**
-|
+
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white)  ![Material Design](https://img.shields.io/badge/Material_Design-757575?logo=material-design&logoColor=white)  ![ML Kit](https://img.shields.io/badge/ML_Kit-4285F4?logo=google&logoColor=white) ![Navigation](https://img.shields.io/badge/Navigation-00579C?logo=android&logoColor=white)  ![PyTorch Mobile](https://img.shields.io/badge/PyTorch_Mobile-EE4C2C?logo=pytorch&logoColor=white) 
 
 
