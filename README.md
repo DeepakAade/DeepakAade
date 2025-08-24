@@ -3,7 +3,7 @@ Hey 👋 Deepak Here!
 🚀 About Me
 
 Passionate developer bridging cutting-edge AI/ML with intuitive web and mobile experiences.
-I specialize in:
+          I specialize in:
 
 🌐 **Full-Stack Web Development** (React, Node.js, Cloud Architecture)
 
