@@ -1,4 +1,5 @@
 ### Hey 👋 Deepak Here!
+![Profile Views](https://komarev.com/ghpvc/?username=DeepakAde&style=flat-square) ![GitHub followers](https://img.shields.io/github/followers/DeepakAde?style=social)
 
 Passionate developer bridging AI/ML with intuitive web and mobile experiences.
           
