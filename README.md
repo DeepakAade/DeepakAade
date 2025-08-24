@@ -1,8 +1,8 @@
 ### Hey 👋 Deepak Here!
 
 Passionate developer bridging AI/ML with intuitive web and mobile experiences.
-          
 
+          
 🌐 **Full-Stack Web Development** (React, Node.js)
 
 📱 **Native Android Development** (Kotlin)
